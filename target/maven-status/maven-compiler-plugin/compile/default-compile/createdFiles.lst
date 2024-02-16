@@ -1,0 +1,7 @@
+it\degroup\ex1\models\BookService.class
+it\degroup\ex1\Main.class
+it\degroup\ex1\dao\BookDaoImpl.class
+it\degroup\ex1\dao\BookDao.class
+it\degroup\ex1\models\BookServiceImpl.class
+it\degroup\ex1\models\Book.class
+it\degroup\ex1\controller\BookController.class
